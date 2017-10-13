@@ -128,7 +128,7 @@
   t: Form+OED
   d: Design Engineering firm based in Ahmedabad
   y: 2010
-  k: [drupal, completed, design, featured]
+  k: [drupal, completed, design]
   l: http://formoed.com
 -
   t: Freitagmann
@@ -140,7 +140,7 @@
   t: AMTS Info Android App
   d: Mobile app for AMTS Info website
   y: 2014
-  k: [app, completed]
+  k: [app, completed, programming, design]
   l: https://play.google.com/store/apps/details?id=io.socio.amtsinfo&hl=en
 -
   t: Vibrant Gujarat 2015 Kiosk
@@ -152,7 +152,7 @@
   t: Rishi Singhal
   d: Photographer based in New Delhi
   y: 2008
-  k: [html, completed, featured, css, php, customization]
+  k: [completed, programming, design]
   l: http://rishisinghal.com
 -
   t: Kamal Mangaldas
@@ -170,17 +170,17 @@
   t: Nikunj Choradiya
   d: Architect / Sculptor based in Ahmedabad
   y: 2010
-  k: [php, completed, design, html, css, customization, architects]
+  k: [design, programming, completed]
   l: http://nikunjchoradiya.com
 -
   t: Rajiv Vyas
   d: Architect based in Ahmedabad
   y: 2010
-  k: [php, completed, html, css, customization, architects]
+  k: [completed, programming]
   l: http://rajivvyas.com
 -
   t: ERC India
   d: eRc is a Resource and Response Centre that keeps a watch on the Environment Impact Assessment (EIA) processes
   y: 2017
-  k: [drupal, completed]
-  l: http://rajivvyas.com
+  k: [drupal, completed, programming]
+  l: http://ercindia.org
