@@ -2,13 +2,19 @@
   t: ACCCRN Conference Website
   d: National Conference on Emerging mechanisms and responses of cities to climate change
   y: 2013
-  k: [javascript, css, experiment]
+  k: [html/css/js, experiment]
   l: http://acccrnindia.surge.sh
+-
+  t: Arka Designs
+  d: ARKA offers a unique collection of Art Furniture.
+  y: 2017
+  k: [design, html/css/js, complete]
+  l: http://arkadesigns.in
 -
   t: At Risk
   d: Customizing the Ushahidi Platform for TARU
   y: 2013
-  k: [ushahidi, javascript, css, ongoing, experiment]
+  k: [ushahidi, html/css/js, ongoing, completed]
   l: http://atrisk.in
 -
   t: Thermal Comfort Design Competition
@@ -20,7 +26,7 @@
   t: NC Architects
   d: Architectural Design firm based in Ahmedabad
   y: 2013
-  k: [html, css, php, design, architects, completed]
+  k: [html/css/js, design, architect, completed]
   l: http://ncarchitects.in
 -
   t: Images and Imprints
