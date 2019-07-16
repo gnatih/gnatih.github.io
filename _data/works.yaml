@@ -1,203 +1,169 @@
--
-  t: Women In Police
+- t: Women In Police
   d: An online platform developed by the Commonwealth Human Rights Initiative to collate, store, and track policies on women in police in India
   y: 2018
   k: [drupal, html/css/js]
-  l: http://iksoi.in
--
-  t: IKSOI
+  l: http://womenpoliceindia.org
+- t: IKSOI
   d: IKSOI is a young architecture practice based in Ahmedabad, India
   y: 2018
   k: [drupal, html/css/js]
   l: http://iksoi.in
--
-  t: ACCCRN Conference Website
+- t: ACCCRN Conference Website
   d: National Conference on Emerging mechanisms and responses of cities to climate change
   y: 2013
   k: [html/css/js, experiment]
   l: http://acccrnindia.surge.sh
--
-  t: Arka Designs
+- t: Arka Designs
   d: ARKA offers a unique collection of Art Furniture.
   y: 2017
   k: [design, html/css/js, complete]
   l: http://arkadesigns.in
--
-  t: At Risk
+- t: At Risk
   d: Customizing the Ushahidi Platform for TARU
   y: 2013
   k: [ushahidi, html/css/js, ongoing, completed]
   l: http://atrisk.in
--
-  t: Thermal Comfort Design Competition
-  d: Cool-roof technology design competition
-  y: 2013
-  k: [drupal, featured, ngo, completed]
-  l: http://thermalcomfort.co.in
--
-  t: NC Architects
+# - t: Thermal Comfort Design Competition
+#   d: Cool-roof technology design competition
+#   y: 2013
+#   k: [drupal, featured, ngo, completed]
+#   l: http://thermalcomfort.co.in
+- t: NC Architects
   d: Architectural Design firm based in Ahmedabad
   y: 2013
   k: [html/css/js, design, architect, completed]
   l: http://ncarchitects.in
--
-  t: Images and Imprints
+- t: Images and Imprints
   d: Exhibition website for Prof. Miki Desai
   y: 2013
   k: [drupal, design, featured, completed]
   l: http://imagesandimprints.com
--
-  t: Kinny Soni
+- t: Kinny Soni
   d: She is an Artist / Architect based in Ahmedabad
   y: 2011
   k: [html, css, javascript, experiment, completed, design, php, featured]
   l: http://jaysoni.net
--
-  t: Jay Soni
+- t: Jay Soni
   d: Website for a Photographer friend
   y: 2011
   k: [html, css, javascript, experiment, completed, design, php, featured]
   l: http://jaysoni.net
--
-  t: Fare Map
-  d: Mapping public transport fares
-  y: 2011
-  k: [html, css, javascript, experiment, initiative, ongoing, design, featured]
-  l: http://faremap.in
--
-  t: Vishal Raman
+# - t: Fare Map
+#   d: Mapping public transport fares
+#   y: 2011
+#   k: [html, css, javascript, experiment, initiative, ongoing, design, featured]
+#   l: http://faremap.in
+- t: Vishal Raman
   d: Film Maker based in Mumbai
   y: 2012
   k: [html, css, javascript, experiment, completed, design, featured]
   l: http://vishalraman.com
--
-  t: Kesarjan
+- t: Kesarjan
   d: Environment friendly, alternative materials manufacturer
   y: 2011
   k: [drupal, completed, design]
   l: http://kesarjan.com
--
-  t: Various at Dhobitalao
+- t: Various at Dhobitalao
   d: A storefront for well-crafted works of furniture, objects, and foods
   y: 2011
   k: [drupal, completed, architects]
   l: http://variousatdhobitalao.in
--
-  t: Studio Sher
+- t: Studio Sher
   d: Architectural Design office based in Delhi
   y: 2011
   k: [drupal, completed, architects]
-  l: http://adapitektur.com
--
-  t: Vaibhav Arekar
+  l: http://studiosher.com
+- t: Vaibhav Arekar
   d: Classical Indian dance artist and teacher based in Mumbai
   y: 2011
   k: [drupal, completed, design]
   l: http://vaibhavarekar.com
--
-  t: AMTS Info
+- t: AMTS Info
   d: Easily accessible bus-routes information for AMTS Ahmedabad
   y: 2009
   k: [drupal, experiment, initiative, ongoing, featured]
   l: http://amtsinfo.in
--
-  t: Archicrafts
+- t: Archicrafts
   d: Archicrafts is engaged in practice, research and documentation
   y: 2009
   k: [html, css, customization, completed, featured]
   l: http://archicrafts.com
--
-  t: Dilip Soni Architects
+- t: Dilip Soni Architects
   d: Architectural Design firm based in Ahmedabad
   y: 2009
   k: [drupal, completed, architects, featured]
   l: http://dilipsoniarchitects.com
--
-  t: Banduk Smith Studio
+- t: Banduk Smith Studio
   d: Architectural Design firm based in Ahmedabad
   y: 2012
   k: [drupal, completed, architects, featured]
   l: http://banduksmithstudio.in
--
-  t: COVMO
+- t: COVMO
   d: COVMO Ltd. is a leading UK wholesaler of automotive parts
   y: 2012
   k: [drupal, completed, ecommerce, featured]
   l: http://covmo.com
--
-  t: Iora Studio
+- t: Iora Studio
   d: Architecture, Landscape Design design firm based in Ahmedabad
   y: 2011
   k: [drupal, completed, architects, design]
   l: http://iorastudio.com
--
-  t: Mayank Loonker
-  d: Exhibition Designer and Faculty at NID, Ahmedabad
-  y: 2011
-  k: [drupal, completed, design]
-  l: http://mayankloonker.com
--
-  t: Environmental Design Consultants
+# - t: Mayank Loonker
+#   d: Exhibition Designer and Faculty at NID, Ahmedabad
+#   y: 2011
+#   k: [drupal, completed, design]
+#   l: http://mayankloonker.com
+- t: Environmental Design Consultants
   d: Landscape Architecture & Planning firm based in Ahmedabad
   y: 2010
   k: [drupal, completed, design]
   l: http://edc.org.in
--
-  t: Form+OED
+- t: Form+OED
   d: Design Engineering firm based in Ahmedabad
   y: 2010
   k: [drupal, completed, design]
   l: http://formoed.com
--
-  t: Freitagmann
+- t: Freitagmann
   d: Design Engineering firm based in Ahmedabad
   y: 2010
   k: [drupal, completed, design]
   l: http://freitagmann.com
--
-  t: AMTS Info Android App
+- t: AMTS Info Android App
   d: Mobile app for AMTS Info website
   y: 2014
   k: [app, completed, programming, design]
   l: https://play.google.com/store/apps/details?id=io.socio.amtsinfo&hl=en
--
-  t: Vibrant Gujarat 2015 Kiosk
+- t: Vibrant Gujarat 2015 Kiosk
   d: Chrome App for kiosks setup at Vibrant Gujarat 2015
   y: 2015
   k: [chromapp, completed, design]
   l: https://chrome.google.com/webstore/detail/vibrant-gujarat-2015/gfabhjmnldegpehopclgeelehnkclhgc
--
-  t: Rishi Singhal
+- t: Rishi Singhal
   d: Photographer based in New Delhi
   y: 2008
   k: [completed, programming, design]
   l: http://rishisinghal.com
--
-  t: Kamal Mangaldas
+- t: Kamal Mangaldas
   d: Senior Architect based in Ahmedabad
   y: 2013
   k: [drupal, completed, architects]
   l: http://kamalmangaldas.net
--
-  t: Indian Society of Advertisers
+- t: Indian Society of Advertisers
   d: Peak national body for Indian Advertisers
   y: 2012
   k: [joomla, completed, design]
   l: http://isanet.org.in
--
-  t: Nikunj Choradiya
+- t: Nikunj Choradiya
   d: Architect / Sculptor based in Ahmedabad
   y: 2010
   k: [design, programming, completed]
   l: http://nikunjchoradiya.com
--
-  t: Rajiv Vyas
-  d: Architect based in Ahmedabad
-  y: 2010
-  k: [completed, programming]
-  l: http://rajivvyas.com
--
-  t: ERC India
+# - t: Rajiv Vyas
+#   d: Architect based in Ahmedabad
+#   y: 2010
+#   k: [completed, programming]
+#   l: http://rajivvyas.com
+- t: ERC India
   d: eRc is a Resource and Response Centre that keeps a watch on the Environment Impact Assessment (EIA) processes
   y: 2017
   k: [drupal, completed, programming]
