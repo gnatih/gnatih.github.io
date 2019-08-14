@@ -2,41 +2,43 @@
 ---
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>g.phz: Portfolio of works</title>
-    <link rel="stylesheet" href="/css/style.css">
-  </head>
-  <body>
-    <div class="container">
-      {% assign sworks = site.data.works | sort: 'y' | reverse %}
-      <h2 class="brand">{{ site.title }}<br><span>Portfolio of works</span></h2>
 
-      <nav>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>g.phz: Portfolio of works</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+  <div class="container">
+    {% assign sworks = site.data.works | sort: 'y' | reverse %}
+    <h2 class="brand">{{ site.title }}<br><span>Portfolio of works</span></h2>
+
+    <nav>
       {% for work in sworks %}
-        <div class="item" data-href="{{ work.l }}">
-          <h4>{{ work.t }}</h4>
-          <div class="sub">
-            <a>{{ work.y }}</a>
-            {% for tag in work.k %}
-            -&nbsp;<a>{{ tag | capitalize }}</a>
-            {% endfor %}
-          </div>
-          <p>{{ work.d }}</p>
+      <a class="item" href="{{ work.l }}" data-href="{{ work.l }}">
+        <h4>{{ work.t }}</h4>
+        <div class="sub">
+          <a>{{ work.y }}</a>
+          {% for tag in work.k %}
+          -&nbsp;<a>{{ tag | capitalize }}</a>
+          {% endfor %}
         </div>
+        <p>{{ work.d }}</p>
+      </a>
       {% endfor %}
-      </nav>
+    </nav>
 
-      <footer>
-        <a href="https://facebook.com/jayesh.gohel" class="brandico-facebook-rect"></a>
-        <a href="https://twitter.com/jayeshgohel" class="brandico-twitter-bird"></a>
-      </footer>
-    </div>
+    <footer>
+      <a href="https://facebook.com/jayesh.gohel" class="brandico-facebook-rect"></a>
+      <a href="https://twitter.com/jayeshgohel" class="brandico-twitter-bird"></a>
+    </footer>
+  </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="/js/script.js"></script>
-  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="/js/script.js"></script>
+</body>
+
 </html>
-
