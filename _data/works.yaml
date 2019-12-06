@@ -1,7 +1,22 @@
+- t: Akbar International
+  k: [grav, html/css/js]
+  d: Creators of exquisite marble inlay products based in Agra, India
+  l: https://akbarinternational.com
+  y: 2019
 - t: Raagin Karman
+  k: [drupal, html/css/js]
   d: Architecture practice based in Ahmedabad
   l: https://rk2.in
   y: 2019
+- t: Metalfabrik FZ
+  k: [wordpress]
+  d: Metal works consultant based in Dubai
+  l: https://metalfabrik-fz.com
+  y: 2019
+- t: Urban Style Metal
+  k: [wordpress]
+  d: Metal works consultant based in Dubai
+  l: https://us-metal.com
 - t: Women In Police
   d: An online platform developed by the Commonwealth Human Rights Initiative to collate, store, and track policies on women in police in India
   y: 2018
