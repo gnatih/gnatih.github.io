@@ -1,12 +1,17 @@
 - t: Akbar International
-  k: [grav, html/css/js]
+  k: [grav, html/css/js, design]
   d: Creators of exquisite marble inlay products based in Agra, India
   l: https://akbarinternational.com
   y: 2019
 - t: Raagin Karman
-  k: [drupal, html/css/js]
+  k: [drupal, html/css/js, design]
   d: Architecture practice based in Ahmedabad
   l: https://rk2.in
+  y: 2019
+- t: Architects Jumana & Juzar
+  k: [grav, html/css/js, design]
+  d: Architecture practice based in Dahod & Indore
+  l: https://jumanajuzar.in
   y: 2019
 - t: Metalfabrik FZ
   k: [wordpress]
